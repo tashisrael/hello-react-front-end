@@ -77,7 +77,7 @@ Clone this repository to your desired folder:
 Example command:
 
 ```
-  git clone https://github.com/TashIsrael/hello-react-front-end.git
+  git clone https://github.com/tashisrael/hello-react-front-end.git
   cd hello-react-front-end
 ```
 
@@ -142,14 +142,14 @@ Vercel
 <!-- BACK-END REPOSITORY -->
 ## 💻 Back-end Repository <a name="backend-repo"></a>
 
-- [Click Here](https://github.com/TashIsrael/hello-rails-back-end)
+- [Click Here](https://github.com/tashisrael/hello-rails-back-end)
 
 - Clone this repository to your desired folder:
 
 - Example command:
 
   ```
-    git clone https://github.com/TashIsrael/hello-rails-backend.git
+    git clone https://github.com/tashisrael/hello-rails-backend.git
     cd hello-rails-backend
   ```
 
